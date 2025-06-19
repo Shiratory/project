@@ -18,7 +18,7 @@ app.get("/api/board", (req, res) => {
   res.send({ title: "노드 api 서버 update!!!!" });
 });
 
-// github action 이벤트
+// github action 이벤트 ㅇㅅㅇ
 
 
 // vue.js build 이후
